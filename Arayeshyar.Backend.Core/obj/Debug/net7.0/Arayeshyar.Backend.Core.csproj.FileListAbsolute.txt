@@ -1,0 +1,11 @@
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\bin\Debug\net7.0\Arayeshyar.Backend.Core.deps.json
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\bin\Debug\net7.0\Arayeshyar.Backend.Core.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\bin\Debug\net7.0\Arayeshyar.Backend.Core.pdb
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.AssemblyInfoInputs.cache
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.AssemblyInfo.cs
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\refint\Arayeshyar.Backend.Core.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\Arayeshyar.Backend.Core.pdb
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Core\obj\Debug\net7.0\ref\Arayeshyar.Backend.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Infrastructure.deps.json
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Infrastructure.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Infrastructure.pdb
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\refint\Arayeshyar.Backend.Infrastructure.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.pdb
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\ref\Arayeshyar.Backend.Infrastructure.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Infrastructure.runtimeconfig.json
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Core.dll
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\bin\Debug\net7.0\Arayeshyar.Backend.Core.pdb
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.csproj.CopyComplete
+C:\Users\Alvand_co\Desktop\FullStack Projects\Araeshyar\Arayeshyar.Backend\Arayeshyar.Backend.Infrastructure\obj\Debug\net7.0\Arayeshyar.Backend.Infrastructure.genruntimeconfig.cache

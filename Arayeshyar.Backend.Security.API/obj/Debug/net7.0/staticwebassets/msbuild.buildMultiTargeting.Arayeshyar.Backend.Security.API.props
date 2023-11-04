@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Arayeshyar.Backend.Security.API.props" />
+</Project>
